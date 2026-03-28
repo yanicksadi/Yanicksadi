@@ -4,9 +4,8 @@
 
 * 🎓 Graduate in **Business and Information Technology**
 * 💻 Passionate about building digital solutions for **finance and data management**
-* 🧠 Currently sharpening my backend and full-stack skills through the **ALX ProBackend Program**
+* 🧠 Currently sharpening my backend and full-stack skills through the **HC Solutions FullStack Delepment Program**
 * 🔨 Building scalable and user-focused applications
-* 🌍 Driven to use technology to improve **financial transparency and inclusion in Africa**
 
 ---
 
