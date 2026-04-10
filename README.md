@@ -4,7 +4,7 @@
 
 * 🎓 Graduate in **Business and Information Technology**
 * 💻 Passionate about building digital solutions for **finance and data management**
-* 🧠 Currently sharpening my backend and full-stack skills through the **HC Solutions FullStack Delepment Program**
+* 🧠 Currently sharpening my backend and full-stack skills through the **HC Solutions FullStack Development Program**
 * 🔨 Building scalable and user-focused applications
 
 ---
