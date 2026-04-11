@@ -43,6 +43,8 @@ A simple chat interface simulating messaging interactions with predefined respon
 
 ### 🌐 React Landing Page
 A modern responsive landing page built with React and TailwindCSS.
+<img width="618" height="962" alt="Landing Page" src="https://github.com/user-attachments/assets/e918a0cc-a775-4752-82c0-eb7fb45c1a4c" />
+
 
 ---
 
