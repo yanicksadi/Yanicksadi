@@ -6,8 +6,6 @@
 -  Currently advancing my skills through the HC Solutions FullStack Development Program  
 -  Focused on creating scalable and user-centered applications  
 
----
-
 ##  Featured Projects
 
 ###  TrackItFinance
@@ -23,7 +21,6 @@ A web-based financial management system for individuals and organizations.
 - Backend: Node.js, Express  
 - Database: MySQL  
 
----
 
 ###  Library Management System
 A backend system for managing books, members, and borrowing records.
@@ -31,7 +28,6 @@ A backend system for managing books, members, and borrowing records.
 - Built with Node.js, Express, and PostgreSQL  
 - Tracks borrowed books and user activity  
 
----
 
 ###  MiniChatUI
 A simple chat interface simulating messaging interactions with predefined responses.
@@ -39,13 +35,12 @@ A simple chat interface simulating messaging interactions with predefined respon
 - Built with React.js  
 - Planned upgrade: real-time chatbot backend  
 
----
+
 
 ###  React Landing Page
 A modern responsive landing page built with React and TailwindCSS.
 
 
----
 
 ##  Skills & Tools
 
@@ -62,17 +57,17 @@ A modern responsive landing page built with React and TailwindCSS.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
----
+
 
 ##  What Drives Me
 I am passionate about solving real-world problems through technology. I also enjoy helping others understand technical concepts and grow their skills.
 
----
+
 
 ##  Let’s Connect
 -  Email: nckmuhire@gmail.com  
 -  LinkedIn: https://www.linkedin.com/in/ishimwe-muhire-sadi/  
 
----
 
-✨ *"Code with purpose. Build with impact."*
+
+ *"Code with purpose. Build with impact."*
