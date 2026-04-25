@@ -1,5 +1,4 @@
 #  Hi, I'm Yanick Sadi
-
 ##  About Me
 -  Graduate in Business and Information Technology  
 -  Full-Stack Developer passionate about building real-world solutions, especially in financial systems  
