@@ -18,19 +18,19 @@ A modern web-based Performance Management System designed to help organizations 
 
 ### Key Features
 
- 🔐 Secure Authentication with Role-Based Access Control
- 📊 Employee & Manager Dashboards
- 📈 Performance Reports & Analytics
- 🎯 Goals & KPI Tracking
- 📝 Employee Check-ins & Continuous Feedback
- ⭐ Performance Reviews
- 📅 Review Scheduling
- 🏆 Recognition & Achievements
- 👤 Employee Profile Management
- 📂 Document Management
- 🔔 Notifications & Reminders
- 📱 Responsive UI
- ⚡ Modern Enterprise User Experience
+- 🔐 Secure Authentication with Role-Based Access Control
+- 📊 Employee & Manager Dashboards
+- 📈 Performance Reports & Analytics
+- 🎯 Goals & KPI Tracking
+- 📝 Employee Check-ins & Continuous Feedback
+- ⭐ Performance Reviews
+- 📅 Review Scheduling
+- 🏆 Recognition & Achievements
+- 👤 Employee Profile Management
+- 📂 Document Management
+- 🔔 Notifications & Reminders
+- 📱 Responsive UI
+- ⚡ Modern Enterprise User Experience
 
 ### Tech Stack
 
